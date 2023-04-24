@@ -2,12 +2,10 @@
 ## Planeación Quirúrgica
 - Modelación
   - [El proyecto Visible Human](https://www.nlm.nih.gov/research/visible/photos.html)
-    - Primal Pictures (https://www. primalpictures.com/)
-    - Anatomage (https://www.anatomage.com/table/)
-    - the Voxel- Man interactive 3D anatomy atlas
-    - surgery simulator (https://www.voxel-man. com/)
-    - virtual body models (https://www.voxel-man.com/3d-navigators/down- loads/)
-    - Body Voyage (Tsiaras, 1997)
+    - [Primal Pictures](https://www.primalpictures.com/)
+    - [Anatomage](https://www.anatomage.com/table/)
+    - [the Voxel-Man interactive 3D anatomy atlas, surgery simulator](https://www.voxel-man.com/3d-navigators/) and [virtual body models](https://www.voxel-man.com/3d-navigators/downloads/)
+    - [Body Voyage (libro)](https://www.amazon.com/Body-Voyage-Three-Dimensional-Tour-Human/dp/0446520098)
   - Anatomografía
   - Humano Fisiológico Virtual
   - El Gemelo Digital
