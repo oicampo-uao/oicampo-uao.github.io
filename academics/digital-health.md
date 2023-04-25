@@ -69,7 +69,7 @@ _Proyectos basados en VHP_
 1. [Color Atlas of medical diseases (v. 2004)](https://ecureme.com/atlas/version2001/atlas.asp)
 1. [Swiss bioinformatics resource portal (Expasy) ](https://www.expasy.org)
 1. [MedPix (>12,000 patient case scenarios and nearly 59,000 images)](https://medpix.nlm.nih.gov/home)
-1. [Open science repository (research papers)](https://www.open-science-repository.com)
+1. [Open science repository (research papers)](http://www.open-science-repository.com/)
 1. [OpenSim (musculoskeletal modeling)](https://opensim.stanford.edu)
 1. [Patient contributed image repository (PCIR)](https://www.pcir.org)
 1. [Virtual metabolic human](https://www.vmh.life)
