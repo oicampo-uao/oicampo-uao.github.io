@@ -5,10 +5,9 @@
 - El Visible Human Project (VHP) se basa en la digitalización de tres cadáveres.
 - El proyecto se completó inicialmente en 1995 con la digitalización de un cuerpo masculino y un cuerpo femenino después de nueve años de trabajo.
 - El VHP utilizó técnicas físicas de seccionamiento y fotografía además de MRI y CT para obtener datos de los cuerpos.
-- Los datos obtenidos son de una calidad diez veces superior a los datos obtenidos mediante MRI y CT solamente.
-- Los datos de los cuerpos fueron obtenidos mediante MRI y CT, así como fotografías de secciones físicas de los cuerpos.
-- Los datos se usaron para crear imágenes y modelos en 3D de los cuerpos.
-- Los datos no son perfectos ya que están limitados por la salud y las patologías de los donantes y la preparación de los cuerpos.
+- calidad diez veces superior a MRI y CT solamente.
+- imágenes y modelos 3D.
+- Los datos imperfectos, +20 años.
 
 _Proyectos basados en VHP_
 - [Primal Pictures](https://www.primalpictures.com/)
