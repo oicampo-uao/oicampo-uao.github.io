@@ -75,15 +75,35 @@ _Proyectos basados en VHP_
 1. [Virtual metabolic human](https://www.vmh.life)
 
 ### 1.4 El Gemelo Digital
-El término "Digital Twin" ha sido utilizado en diferentes industrias con diferentes significados.
-    
-- Definición general: representación virtual en tiempo real de un objeto o proceso físico.
-- Medicina: Creación de modelos individuales en lugar de poblaciones generalizadas.
+"Gemelo Digital" (_Digital Twin_, DT) significados y usos muy diferentes.
+
+[DT en industria 4.0](https://www2.deloitte.com/us/en/insights/focus/industry-4-0/digital-twin-technology-smart-factory.html)
+
+> Un DT es una réplica exacta de algo en el mundo físico, pero con una misión única: ayudar a mejorar o proporcionar retroalimentación a la versión de la vida real. 
+
+DT en Medicina
+1. órganos virtuales: [Philip HeartModel](https://www.usa.philips.com/healthcare/resources/feature-detail/ultrasound-heartmodel) , [DT del corazón](https://www.feops.com/product/healthcare-professionals), [Living Heart Project](https://www.3ds.com/products-services/simulia/solutions/life-sciences-healthcare/the-living-heart-project/), el proyecto [Living Brain](https://www.3ds.com/stories/living-brain/) : [tratamiento de la epilepsy](https://advances.sciencemag.org/content/7/1/eabd4639) y registro de la [progressión de enfermedades neurodegenerativas](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1008267) 
+2. Medicina genómica: mapeo de [RNA](https://liu.se/en/news-item/digital-tvillingar-hjalpmedel-for-skraddarsydd-medicinering-) de un ratón para predecir efecto de diferentes tipos y dosis de medicamentos para la artritis
+3. Información de salud personalizada: 
+La aplicación Healthcheck de  [Babylon Health](https://www.babylonhealth.com/about) captura datos de salud en un DT. Funciona con datos ingresados ​​manualmente, como historiales de salud, un rastreador de estado de ánimo, un rastreador de síntomas y captura automática de dispositivos de acondicionamiento físico y dispositivos portátiles como el Apple Watch. El gemelo digital puede proporcionar información básica de primera línea o ayudar a guiar las prioridades y las interacciones con los médicos para abordar condiciones más graves o persistentes.
+4. Tratamiento farmacológico personalizado: 
+[Optimización de dosis de medicamento](https://www.empa.ch/web/s604/eq71-digital-twin) 
+5. Escaneo de cuerpo completo: Plataforma [Gemini Digital Twin](https://q.bio/)
+6. Planeación quirúrgica: [Boston Hospital y Dassault Systems](https://answers.childrenshospital.org/aerospace-tools-repair-hearts/), Sim&Cure y Ansys: [Sim&Size: tratamiento de aneurismas](https://sim-and-cure.com/patient-care/)
+7. Mejoramiento de las organizaciones de salud: Los gemelos digitales también son prometedores para mejorar la forma en que las organizaciones de atención médica brindan atención: [Gemelo Digital de una Organización](https://www.gartner.com/doc/3901491)
+8. Mejoramiento de la Eficiencia de las Instituciones Hospitalarias:
+[virtualización hospitales y prueba del impacto de varias decisiones en los cambios en el desempeño general de la organización](https://www.gehccommandcenter.com/digital-twin) 
+9. Mejoramiento del tiempo de actividad de los dispositivos médicos: [Mantenimiento predictivo](https://www.philips.com/a-w/about/news/archive/blogs/innovation-matters/20180830-the-rise-of-the-digital-twin-how-healthcare-can-benefit.html)
+10. Simulación de variabilidad humana: [Uso de pacientes virtuales como evidencia digital para enviar a los organismos reguladores](https://www.virtonomy.io/).
+11. Mejoramiento de la administración de medicamentos: El uso de [modelos de pulmones simulados](https://www.cbbl-okstate.com/lung-structure) permitió rediseñar el tamaño de partícula y las características de composición del fármaco para mejorar la eficiencia de administración en un 90%.
+
+
 
 ## 2 Dispositivos Médicos
-### 2.1 Co-creación digital
 ### 2.2 Diseño de un implante en un modelo virtual
+[Feya](https://www.rhfeya.com/), [HumanBX](https://humanbx.com/)
 ### 2.3 Realidad Virtual y Odontología
+
 ### 2.4 Modelo de paciente virtual (deformación facial)
 ### 2.5 Plataformas VR y rehabilitación de pacientes post ACV
 ### 2.6 Personalización de Implantes Quirúrgicos
