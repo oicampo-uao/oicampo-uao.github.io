@@ -1,5 +1,5 @@
 # Salud Digital. 
-## Perspectivas en el uso de herramientas digitales para modelación y diseño
+## Perspectivas en el uso de herramientas digitales para modelación y diseño en Ingeniería Biomédica
 ## 1 Modelación
 ### [1.1 El proyecto Visible Human](https://www.nlm.nih.gov/research/visible/photos.html)
 - El Visible Human Project (VHP) se basa en la digitalización de tres cadáveres.
