@@ -7,7 +7,7 @@
 - El VHP utilizó técnicas físicas de seccionamiento y fotografía además de MRI y CT para obtener datos de los cuerpos.
 - calidad diez veces superior a MRI y CT solamente.
 - imágenes y modelos 3D.
-- Los datos imperfectos, +20 años.
+- Datos imperfectos, +20 años.
 
 _Proyectos basados en VHP_
 - [Primal Pictures](https://www.primalpictures.com/)
