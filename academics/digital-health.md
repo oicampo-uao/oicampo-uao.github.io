@@ -109,4 +109,9 @@ C. Díaz. "Desarrollo de un sistema de slot de ajuste variable para brackets de 
 
 ### 2.4 Modelo de paciente virtual (deformación facial)
 ### 2.5 Plataformas VR y rehabilitación de pacientes post ACV
+[L. Loaiza. DISEÑO DE UNA INTERFAZ CEREBRO COMPUTADOR (BCI) PARA LA INTERACCIÓN
+CON UN SISTEMA DE REHABILITACIÓN DE MIEMBRO SUPERIOR](https://red.uao.edu.co/bitstream/handle/10614/14500/T10501_Dise%C3%B1o%20de%20una%20interfaz%20cerebro%20computador%20(BCI)%20para%20la%20interacci%C3%B3n%20con%20un%20sistema%20de%20rehabilitaci%C3%B3n%20de%20miembro%20superior.pdf?sequence=1)
+
+[J.J. Ramírez-Torrez, M.J. Tovar-Sánchez. Sistema de realidad virtual interactivo para el soporte en la rehabilitación de personas con deficiencias motoras a causa de accidentes cerebrovasculares](https://red.uao.edu.co/bitstream/handle/10614/13211/T09950_Sistema%20de%20realidad%20virtual%20interactivo%20para%20el%20soporte%20en%20la%20rehabilitaci%c3%b3n%20de%20personas%20con%20deficiencias%20motoras%20a%20causa%20de%20accidentes%20cerebrovasculares.pdf?sequence=3&isAllowed=y)
+
 ### 2.6 Personalización de Implantes Quirúrgicos
