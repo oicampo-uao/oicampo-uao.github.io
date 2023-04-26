@@ -100,7 +100,7 @@ La aplicación Healthcheck de  [Babylon Health](https://www.babylonhealth.com/ab
 
 
 ## 2 Dispositivos Médicos
-### 2.2 Diseño de un implante en un modelos virtuales
+### 2.2 Diseño de implantes en modelos virtuales
 [Feya](https://www.rhfeya.com/), [HumanBX](https://humanbx.com/)
 ### 2.3 CAD y Odontología
 C. Díaz. "Desarrollo de un sistema de slot de ajuste variable para brackets de ortodoncia, basado en la mecánica del movimiento dentoalveolar."
