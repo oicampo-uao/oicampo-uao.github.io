@@ -102,7 +102,7 @@ La aplicación Healthcheck de  [Babylon Health](https://www.babylonhealth.com/ab
 ### 2.2 Diseño de implantes en modelos virtuales
 [Feya](https://www.rhfeya.com/), [HumanBX](https://humanbx.com/)
 ### 2.3 CAD y Odontología
-C. Díaz. "Desarrollo de un sistema de slot de ajuste variable para brackets de ortodoncia, basado en la mecánica del movimiento dentoalveolar."
+[C. Díaz. "Desarrollo de un sistema de slot de ajuste variable para brackets de ortodoncia, basado en la mecánica del movimiento dentoalveolar."](https://oicampo-uao.github.io/academics/CristianDiaz)
 
 [C. Ferro. "Uso de inteligencia artificial en ortodoncia para el apoyo en la toma de decisión de extracción entre los primeros y segundos premolares mediante el uso de variables cefalometricas extraídas de una muestra de población colombiana."](https://oicampo-uao.github.io/academics/CarlosFerro.pdf)
 
