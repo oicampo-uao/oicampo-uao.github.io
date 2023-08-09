@@ -11,9 +11,8 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Prof. Oscar Campo, PhD at UAO</title>
-    <script src="app.js" defer></script>
-    <script src="https://api.countapi.xyz/hit/oicampo-uao.github.io/visits?callback=liveViews" async></script>
-    <a href='https://dissertation-writingservice.com/'>.</a> <script type='text/javascript' src='https://www.freevisitorcounters.com/auth.php?id=74d299ba76f1adb89eaf06a0a3487cdcb4fbfe80'></script>
+    <a href='https://dissertation-writingservice.com/'>.</a> 
+    <script type='text/javascript' src='https://www.freevisitorcounters.com/auth.php?id=74d299ba76f1adb89eaf06a0a3487cdcb4fbfe80'></script>
 <script type="text/javascript" src="https://www.freevisitorcounters.com/en/home/counter/914338/t/0"></script>
 <br><br>
 <address>
