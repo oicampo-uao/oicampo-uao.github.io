@@ -16,3 +16,5 @@
 - [No se dan cuenta?](https://www.youtube.com/live/E9XV5CNC464?feature=share&t=3)
 - [Permisos y Compromisos](https://www.youtube.com/watch?v=Lf_vZ0BMtxo&list=PLcoyYzwGdp_kI5S3v5TNNRoG3wdCxDcT2&index=94&t=2s)
 - [Oportunidades para la fe](https://youtu.be/ktdd7Hjv7Xg)
+- [Pará-bolas](https://www.ivoox.com/player_ej_16698114_4_1.html?c1=ff6600&fromPopup=true)
+- [En el principio...](https://tunein.com/podcasts/Religion--Spirituality-Podcas/Ayunos--Pasto-p3307175/?topicId=242879873)
