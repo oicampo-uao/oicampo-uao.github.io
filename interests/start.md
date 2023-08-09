@@ -1,6 +1,18 @@
 # Interests
 - [Illustration](https://oscampo.github.io)
 - [Andean Music](https://www.youtube.com/watch?v=xZa6ACey7Rg&list=RDMMxZa6ACey7Rg&start_radio=1)
-- Sermons
--   [Casa Roca](https://casaroca.org/?s=Oscar+Campo)
--   [YouTube]
+## Sermons
+- [Casa Roca](https://casaroca.org/?s=Oscar+Campo)
+- [Enfoque y gratitud](https://www.youtube.com/live/vJSTD2o0gLU?feature=share&t=1437)
+- [Incertidumbres y Certezas](https://www.youtube.com/live/Aay0dJZVsfc?feature=share&t=2004)
+- [Historias Asombrosas](https://www.youtube.com/live/2bWa4L1ohqE?feature=share&t=1649)
+- [R,R, Afirmativo](https://www.youtube.com/live/TjECYFlno-w?feature=share&t=1483)
+- [Dominio Propio o Alquilado?](https://www.youtube.com/live/VUBrI6BoIIw?feature=share&t=1378)
+- [Si tan solo creyeras](https://www.youtube.com/live/qzQlLLZ2uVw?feature=share&t=1761)
+-[La Justicia y la Misericordia](https://www.youtube.com/live/i868gxr8lrk?feature=share&t=1796)
+- [Seguidores de... Vicente?](https://www.youtube.com/live/VGw3-w55eog?feature=share&t=1550)
+- [El éxito no sepende solo D1](https://www.youtube.com/live/o1c7trhkYEY?feature=share&t=1435)
+- [Persistencia en la Resistencia](https://www.youtube.com/live/lBHBanabAbg?feature=share&t=2022)
+- [No se dan cuenta?](https://www.youtube.com/live/E9XV5CNC464?feature=share&t=3)
+- [Permisos y Compromisos](https://www.youtube.com/watch?v=Lf_vZ0BMtxo&list=PLcoyYzwGdp_kI5S3v5TNNRoG3wdCxDcT2&index=94&t=2s)
+- [Oportunidades para la fe](https://youtu.be/ktdd7Hjv7Xg)
