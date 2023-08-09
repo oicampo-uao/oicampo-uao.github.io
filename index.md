@@ -5,7 +5,7 @@
 - [Varios/miscelaneous](https://oicampo-uao.github.io/misc)
 - [oicampo@uao.edu.co](mailto:oicampo@uao.edu.co)
 
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -22,8 +22,3 @@ Universidad Autónoma de Occidente<br>
 Cali, Colombia<br>
 </address>
 </head>
-<body>
-    <h1>This page got <span id="visits"></span> views.</h1>
-
-</body>
-</html>
