@@ -121,7 +121,7 @@ function myFunction() {
 
 
 
-for (let i = 0; i < 30; i++) {
+for (let i = 0; i < 30; i++) { 
   if (x == cod.get([i,0])) {
     var result0 = str0;
     var result1 = links.get([i,0]);
