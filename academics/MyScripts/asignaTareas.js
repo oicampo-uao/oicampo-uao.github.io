@@ -118,6 +118,13 @@ function myFunction() {
 ]);
 var result0 = str0;
 var result3 = str3;
+
+const pos = vector.indexOf(x);
+if (pos !==-1) {
+  var result1 = links.get([pos,0]);
+  var result2 = links.get([75-pos,0]);
+}
+/*
 if (x == cod.get([0,0])) {
   var result1 = links.get([0,0]);
   var result2 = links.get([75,0]);
@@ -238,7 +245,7 @@ else if (x == cod.get([29,0])) {
   var result1 = links.get([29,0]);
   var result2 = links.get([46,0]);
 }
-
+*/
 else {
   var str0 = "";
   var result0 = "";
