@@ -4,7 +4,7 @@ function myFunction() {
   var str0 ="Resuelve los problemas:";
   var str = "1";
   var str2 = "2";
-  var str3 = "del libro de Resistencia de Materiales de Beer & Johnston, 6ta edición, que puedes encontrar en la biblioteca de la UAO";
+  var str4 = "del libro de Resistencia de Materiales de Beer & Johnston, 6ta edición, que puedes encontrar en la biblioteca de la UAO";
   const cod = math.matrix([
   [2190313],
 [2200650],
