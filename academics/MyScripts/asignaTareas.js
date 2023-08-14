@@ -4,39 +4,41 @@ function myFunction() {
   var str0 ="Resuelve los problemas:";
   var str = "1";
   var str2 = "2";
+  var str3 = "3";
   var str4 = "del libro de Resistencia de Materiales de Beer & Johnston, 6ta edición, que puedes encontrar en la biblioteca de la UAO";
+  
   const cod = math.matrix([
-  [2190313],
-[2200650],
-[2181359],
-[2204961],
-[2204968],
-[2190732],
-[2195507],
-[2210384],
-[2180660],
-[2195226],
-[2205016],
-[2215002],
-[2150120],
-[2200790],
-[2180074],
-[2191160],
-[2200551],
-[2160590],
-[2185806],
-[2211514],
-[2201265],
-[2205308],
-[2190108],
-[2206055],
-[2205164],
-[2205297],
-[2205165],
-[2181225],
-[2175621],
-[2191051]     
-]);
+    [2190313],
+  [2200650],
+  [2181359],
+  [2204961],
+  [2204968],
+  [2190732],
+  [2195507],
+  [2210384],
+  [2180660],
+  [2195226],
+  [2205016],
+  [2215002],
+  [2150120],
+  [2200790],
+  [2180074],
+  [2191160],
+  [2200551],
+  [2160590],
+  [2185806],
+  [2211514],
+  [2201265],
+  [2205308],
+  [2190108],
+  [2206055],
+  [2205164],
+  [2205297],
+  [2205165],
+  [2181225],
+  [2175621],
+  [2191051]     
+  ]);
 
   const links=math.matrix([
   ["1.1"],
@@ -116,148 +118,33 @@ function myFunction() {
 ["1.C5"],
 ["1.C6"],
 ]);
-var result0 = str0;
-var result3 = str3;
 
-const pos = vector.indexOf(x);
-if (pos !==-1) {
-  var result1 = links.get([pos,0]);
-  var result2 = links.get([75-pos,0]);
-}
-/*
-if (x == cod.get([0,0])) {
-  var result1 = links.get([0,0]);
-  var result2 = links.get([75,0]);
-}
-else if (x == cod.get([1,0])) {
-  var result1 = links.get([1,0]);
-  var result2 = links.get([74,0]);
-}
-else if (x == cod.get([2,0])) {
-  var result1 = links.get([2,0]);
-  var result2 = links.get([73,0]);
-}
-else if (x == cod.get([3,0])) {
-  var result1 = links.get([3,0]);
-  var result2 = links.get([72,0]);
-}
-else if (x == cod.get([4,0])) {
-  var result1 = links.get([4,0]);
-  var result2 = links.get([71,0]);
-}
-else if (x == cod.get([5,0])) {
-  var result1 = links.get([5,0]);
-  var result2 = links.get([70,0]);
-}
-else if (x == cod.get([6,0])) {
-  var result1 = links.get([6,0]);
-  var result2 = links.get([69,0]);
-}
-else if (x == cod.get([7,0])) {
-  var result1 = links.get([7,0]);
-  var result2 = links.get([68,0]);
-}
-else if (x == cod.get([8,0])) {
-  var result1 = links.get([8,0]);
-  var result2 = links.get([67,0]);
-}
-else if (x == cod.get([9,0])) {
-  var result1 = links.get([9,0]);
-  var result2 = links.get([66,0]);
-}
-else if (x == cod.get([10,0])) {
-  var result1 = links.get([10,0]);
-  var result2 = links.get([65,0]);
-}
-else if (x == cod.get([11,0])) {
-  var result1 = links.get([11,0]);
-  var result2 = links.get([64,0]);
-}
-else if (x == cod.get([12,0])) {
-  var result1 = links.get([12,0]);
-  var result2 = links.get([63,0]);
-}
-else if (x == cod.get([13,0])) {
-  var result1 = links.get([13,0]);
-  var result2 = links.get([62,0]);
-}
-else if (x == cod.get([14,0])) {
-  var result1 = links.get([14,0]);
-  var result2 = links.get([61,0]);
-}
-else if (x == cod.get([15,0])) {
-  var result1 = links.get([15,0]);
-  var result2 = links.get([60,0]);
-}
-else if (x == cod.get([16,0])) {
-  var result1 = links.get([16,0]);
-  var result2 = links.get([59,0]);
-}
-else if (x == cod.get([17,0])) {
-  var result1 = links.get([17,0]);
-  var result2 = links.get([58,0]);
-}
-else if (x == cod.get([18,0])) {
-  var result1 = links.get([18,0]);
-  var result2 = links.get([57,0]);
-}
-else if (x == cod.get([19,0])) {
-  var result1 = links.get([19,0]);
-  var result2 = links.get([56,0]);
-}
-else if (x == cod.get([20,0])) {
-  var result1 = links.get([20,0]);
-  var result2 = links.get([55,0]);
-}
-else if (x == cod.get([21,0])) {
-  var result1 = links.get([21,0]);
-  var result2 = links.get([54,0]);
-}
-else if (x == cod.get([22,0])) {
-  var result1 = links.get([22,0]);
-  var result2 = links.get([53,0]);
-}
-else if (x == cod.get([23,0])) {
-  var result1 = links.get([23,0]);
-  var result2 = links.get([52,0]);
-}
-else if (x == cod.get([24,0])) {
-  var result1 = links.get([24,0]);
-  var result2 = links.get([51,0]);
-}
-else if (x == cod.get([25,0])) {
-  var result1 = links.get([25,0]);
-  var result2 = links.get([50,0]);
-}
-else if (x == cod.get([26,0])) {
-  var result1 = links.get([26,0]);
-  var result2 = links.get([49,0]);
-}
-else if (x == cod.get([27,0])) {
-  var result1 = links.get([27,0]);
-  var result2 = links.get([48,0]);
-}
-else if (x == cod.get([28,0])) {
-  var result1 = links.get([28,0]);
-  var result2 = links.get([47,0]);
-}
-else if (x == cod.get([29,0])) {
-  var result1 = links.get([29,0]);
-  var result2 = links.get([46,0]);
-}
-*/
-else {
-  var str0 = "";
-  var result0 = "";
-var str = "Tu código no ha sido encontrado, ";
-  var result1 = str.link("mailto:oicampo@uao.edu.co?subject=Mi%20código%20"+x+",%20no%20está%20inscrito%20en%20el%20curso%20de%20Elementos%20de%20Máquinas");
-var str2 = " por favor haz click aquí para contactar a tu profesor";
-  var result2 = str2.link("mailto:oicampo@uao.edu.co?subject=Mi%20código%20"+x+",%20no%20está%20inscrito%20en%20el%20curso%20de%20Elementos%20de%20Máquinas");
-  var result3 ="";
-}
 
+
+for (let i = 0; i < 30; i++) {
+  if (x == cod.get([i,0])) {
+    var result0 = str0;
+    var result1 = links.get([i,0]);
+    var result2 = links.get([30+i,0]);
+    var result3 = links.get([75-i,0]);
+    var result4 = str4;
+    break;
+  }
+  else {
+    //var str0 = "";
+    var result0 = "";
+    var str = "Tu código no ha sido encontrado, ";
+    var result1 = str.link("mailto:oicampo@uao.edu.co?subject=Mi%20código%20"+x+",%20no%20está%20inscrito%20en%20el%20curso%20de%20Elementos%20de%20Máquinas");
+    var str2 = " por favor haz click aquí para contactar a tu profesor";
+    var result2 = str2.link("mailto:oicampo@uao.edu.co?subject=Mi%20código%20"+x+",%20no%20está%20inscrito%20en%20el%20curso%20de%20Elementos%20de%20Máquinas");
+    var result3 ="";
+    var result4 ="";
+  }
+}
+  
 document.getElementById("msg0").innerHTML = result0;
 document.getElementById("tarea1").innerHTML = result1;
 document.getElementById("tarea2").innerHTML = result2;
-document.getElementById("msg").innerHTML = result3;
+document.getElementById("tarea3").innerHTML = result3;
+document.getElementById("msg").innerHTML = result4;
 }
