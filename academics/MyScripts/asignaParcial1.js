@@ -1,6 +1,7 @@
 function myFunction() {
   var x = document.getElementById("myNumber").value;
   var str = "Éste es el link a tu Parcial,No olvides enviarlo por classroom cuando lo termines";
+  var result2 = "";
   const cod = math.matrix([
     [2190313],
   [2200650],
@@ -79,9 +80,9 @@ else if (x == cod.get([9,0]) || x == cod.get([19,0]) || x == cod.get([29,0])) {
 
 else {
 var str = "Tu código no ha sido encontrado, "
-  var result1 = str.link("mailto:oicampo@uao.edu.co?subject=Mi%20código%20no%20stá%20inscrito%20en%20el%20curso%20CABD");
+  var result1 = str.link("mailto:oicampo@uao.edu.co?subject=Mi%20código%20no%20stá%20inscrito%20en%20el%20curso%20EleMaq");
 var str2 = " por favor haz click aquí para contactar a tu profesor"
-  var result2 = str2.link("mailto:oicampo@uao.edu.co?subject=Mi%20código%20no%20stá%20inscrito%20en%20el%20curso%20CABD");
+  var result2 = str2.link("mailto:oicampo@uao.edu.co?subject=Mi%20código%20no%20stá%20inscrito%20en%20el%20curso%20EleMaq");
 }
 
 document.getElementById("tarea1").innerHTML = result1;
