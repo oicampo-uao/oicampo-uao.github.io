@@ -3,7 +3,7 @@ function myFunction() {
   var str = "Éste es el link a tu Parcial,No olvides enviarlo por classroom cuando lo termines";
   var result2 = "";
   const cod = math.matrix([
-    [2190313],
+  [2190313],
   [2200650],
   [2181359],
   [2204961],
