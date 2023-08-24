@@ -35,17 +35,17 @@ function myFunction() {
   ]);
 
   const links=math.matrix([
-  ["https://oicampo-uao.github.io/academics/p1EleMaq2023-3/522214202301.sm"],
-  ["https://oicampo-uao.github.io/academics/p1EleMaq2023-3/522214202302.sm"],
-  ["https://oicampo-uao.github.io/academics/p1EleMaq2023-3/522214202303.sm"],
-  ["https://oicampo-uao.github.io/academics/p1EleMaq2023-3/522214202304.sm"],
-  ["https://oicampo-uao.github.io/academics/p1EleMaq2023-3/522214202305.sm"],
-  ["https://oicampo-uao.github.io/academics/p1EleMaq2023-3/522214202306.sm"],
-  ["https://oicampo-uao.github.io/academics/p1EleMaq2023-3/522214202307.sm"],
-  ["https://oicampo-uao.github.io/academics/p1EleMaq2023-3/522214202308.sm"],
-  ["https://oicampo-uao.github.io/academics/p1EleMaq2023-3/522214202309.sm"],
-  ["https://oicampo-uao.github.io/academics/p1EleMaq2023-3/522214202310.sm"],]);
-
+  ["https://oicampo-uao.github.io/academics/p1EleMaq2023-3/5222142023301.sm"],
+  ["https://oicampo-uao.github.io/academics/p1EleMaq2023-3/5222142023302.sm"],
+  ["https://oicampo-uao.github.io/academics/p1EleMaq2023-3/5222142023303.sm"],
+  ["https://oicampo-uao.github.io/academics/p1EleMaq2023-3/5222142023304.sm"],
+  ["https://oicampo-uao.github.io/academics/p1EleMaq2023-3/5222142023305.sm"],
+  ["https://oicampo-uao.github.io/academics/p1EleMaq2023-3/5222142023306.sm"],
+  ["https://oicampo-uao.github.io/academics/p1EleMaq2023-3/5222142023307.sm"],
+  ["https://oicampo-uao.github.io/academics/p1EleMaq2023-3/5222142023308.sm"],
+  ["https://oicampo-uao.github.io/academics/p1EleMaq2023-3/5222142023309.sm"],
+  ["https://oicampo-uao.github.io/academics/p1EleMaq2023-3/5222142023310.sm"],]);
+3
 if (x == cod.get([0,0]) || x == cod.get([10,0]) || x == cod.get([20,0]))  {
   var result1 = str.link(links.get([0,0]));
 }
