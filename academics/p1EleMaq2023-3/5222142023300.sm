@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?application progid="SMath Studio Desktop" version="1.0.8348.30405"?>
+<worksheet xmlns="http://smath.info/schemas/worksheet/1.0">
+  <settings ppi="96">
+    <identity>
+      <id>f0b9d73f-68dd-487e-9186-5170e54b089f</id>
+      <revision>4</revision>
+    </identity>
+    <metadata lang="spa">
+      <author>Oscar Campo</author>
+    </metadata>
+    <calculation>
+      <precision>4</precision>
+      <exponentialThreshold>5</exponentialThreshold>
+      <trailingZeros>false</trailingZeros>
+      <significantDigitsMode>false</significantDigitsMode>
+      <roundingMode>0</roundingMode>
+      <approximateEqualAccuracy>0</approximateEqualAccuracy>
+      <fractions>decimal</fractions>
+    </calculation>
+    <pageModel active="false" viewMode="2" printGrid="false" printAreas="true" simpleEqualsOnly="false" printBackgroundImages="true">
+      <paper id="1" orientation="Portrait" width="850" height="1100" />
+      <margins left="39" right="39" top="49" bottom="49" />
+      <header alignment="Center" color="#a9a9a9">&amp;[DATE] &amp;[TIME] - &amp;[FILENAME]</header>
+      <footer alignment="Center" color="#a9a9a9">&amp;[PAGENUM] / &amp;[COUNT]</footer>
+      <backgrounds />
+    </pageModel>
+    <dependencies>
+      <assembly name="SMath Studio Desktop" version="1.0.8348.30405" guid="a37cba83-b69c-4c71-9992-55ff666763bd" />
+      <assembly name="MathRegion" version="1.11.8348.30405" guid="02f1ab51-215b-466e-a74d-5d8b1cf85e8d" />
+      <assembly name="TextRegion" version="1.11.8348.30405" guid="485d28c5-349a-48b6-93be-12a35a1c1e39" />
+    </dependencies>
+  </settings>
+  <regions type="content">
+    <region left="9" top="9" width="291" height="98" color="#000000" fontSize="10">
+      <text lang="spa" fontFamily="Times New Roman" fontSize="10">
+        <content>
+          <p>
+            <span style="font-weight: bold;">UNIVERIDAD AUTÓNOMA DE OCCIDENTE</span>
+            <br />
+            <span style="font-weight: bold;">FACULTAD DE INGENIERÍA</span>
+            <br />Programa de Ingeniería Mecatrónica<br />1er Parcial de Elementos de Máquinas - 25ago2023<br /><br /><span style="font-style: italic;">Prof. Oscar Campo, PhD</span></p>
+        </content>
+      </text>
+    </region>
+    <region left="9" top="126" width="65" height="23" color="#000000" fontSize="10">
+      <text lang="spa" fontFamily="Times New Roman" fontSize="10">
+        <content>
+          <p>Nombre :</p>
+        </content>
+      </text>
+    </region>
+    <region left="9" top="153" width="60" height="23" color="#000000" fontSize="10">
+      <text lang="spa" fontFamily="Times New Roman" fontSize="10">
+        <content>
+          <p>Código :</p>
+        </content>
+      </text>
+    </region>
+    <region left="18" top="189" width="18" height="24" color="#000000" fontSize="10">
+      <math>
+        <description active="true" position="Right" lang="eng">
+          <content>
+            <p>Para el problema planteado describa claramente el procedimiento que está realizando. Haga las suposiciones que considere necesarias pero escriba claramente qué va a suponer y porqué. <br />Si el examen carece de explicaciones se penaliza con -1.0 puntos (menos un punto)</p>
+          </content>
+        </description>
+        <input>
+          <e type="operand">.</e>
+        </input>
+      </math>
+    </region>
+  </regions>
+</worksheet>
