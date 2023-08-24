@@ -1,3 +1,9 @@
+# Elementos de Máquinas
+Semestre 2023-3
+- [Asignación Tarea](https://oicampo-uao.github.io/academics/Tarea1-2023-3.html)
+- [Parcial 1](https://oicampo-uao.github.io/academics/Parcial1-2023-3.html)
+
+
 <!DOCTYPE html PUBLIC"-//W3C//DTD XHTML 1.0 Strict//SP"
 "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml">
@@ -12,29 +18,6 @@
 
 <body>
 
-<h2>Elementos de Máquinas</h2>
-<h3>Asignación de Problemas de Estudio 1</h3>
-<p> Prof. Oscar Campo, PhD</p>
-
-
-<p> 1. Haciendo uso de SMath, resuelve los problemas asignados.</p>
-<p> 2. Entrega tu tarea subiendo un solo archivo de SMath con todos los problemas resueltos</p>
-
-<p>Ingresa tu código y haz click en el botón para obtener tu tarea.</p>
-
-<input type="number" id="myNumber"  placeholder="Ingresa tu código...">
-<button onclick="myFunction()">Cuáles mi tarea?</button>
-
-
-<p id = "msg0"></p>
-  <p id="tarea1"></p>
-  <p id="tarea2"></p>
-  <p id="tarea3"></p>
-  <p id ="msg"></p>
-
-<script src="MyScripts/asignaTareas.js"></script>
-
-<br>
 
 <a href='https://dissertation-writingservice.com/'>.</a> <script type='text/javascript' src='https://www.freevisitorcounters.com/auth.php?id=74d299ba76f1adb89eaf06a0a3487cdcb4fbfe80'></script>
 <script type="text/javascript" src="https://www.freevisitorcounters.com/en/home/counter/914338/t/0"></script>
