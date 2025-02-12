@@ -12,7 +12,7 @@
 _Proyectos basados en VHP_
 - [Primal Pictures](https://www.primalpictures.com/)
 - [Anatomage](https://www.anatomage.com/table/)
-- [the Voxel-Man interactive 3D anatomy atlas, surgery simulator](https://www.voxel-man.com/3d-navigators/) and [virtual bodymodels](https://www.voxel-man.com/3d-navigators/downloads/)
+- [the Voxel-Man interactive 3D anatomy atlas](https://www.virtual-body.org/3d-navigators/),[surgery simulator](https://es.voxel-man.com/), and [virtual bodymodels](https://www.virtual-body.org/gallery/)
 - [Body Voyage (libro)](https://www.amazon.com/Body-Voyage-Three-Dimensional-Tour-Human/dp/0446520098)
 - [Otros](https://www.nlm.nih.gov/research/visible/applications.html)
 
