@@ -26,11 +26,7 @@ Cada grupo deberá formular por lo menos una pregunta por cada miembro del grupo
 Las preguntas son en sí mismos instrumentos de evaluación tanto para la persona que la formula como para quien la contesta. Cuando sea tu turno, haz una buena pregunta... y cuando te corresponda, busca por lo menos responder una pregunta. 
 
  
-
 Tu nota dependerá de la exposición pero también de las intervenciones que hagas preguntando y respondiendo. 
 
- 
 
- 
-
-Nos vemos el viernes! 
+Nos vemos el martes 
