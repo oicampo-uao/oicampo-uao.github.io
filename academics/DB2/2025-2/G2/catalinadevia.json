@@ -1,5 +1,27 @@
 [
   {
+    "date": "2025-09-03T16:06:52-05:00",
+    "message": "Update Matriz_QFD_.xlsx",
+    "files": [
+      "Evidencias/Matriz_QFD_.xlsx"
+    ]
+  },
+  {
+    "date": "2025-09-03T15:38:55-05:00",
+    "message": "Definici\u00f3n de Subsistemas",
+    "files": [
+      "\"Evidencias/Definici\\303\\263n de Subsistemas.docx\""
+    ]
+  },
+  {
+    "date": "2025-08-29T13:57:14-05:00",
+    "message": "Documentos actualizados",
+    "files": [
+      "Evidencias/OBJETIVOS.docx",
+      "Evidencias/Revision de necesidades y requisitos_ Claudia.docx"
+    ]
+  },
+  {
     "date": "2025-08-22T14:00:52-05:00",
     "message": "Merge branch 'main' of https://github.com/oicampo-uao/Proyecto-DB2-2025-2-G2",
     "files": [
