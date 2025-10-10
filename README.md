@@ -12,7 +12,7 @@
 <img width="256" height="256" alt="QR Preguntas Grupo 2" src="https://github.com/user-attachments/assets/0cda8186-64db-4fc7-8a85-105c2ef9fe44" />
 
 ### Grupo 3
-<img width="256" height="256" alt="QR Preguntas Grupo 3" src="https://github.com/user-attachments/assets/07d0bd97-1c11-42ce-9296-29609d684811" />
+
 
 ### Grupo 4
 <img width="256" height="256" alt="QR Preguntas Grupo 4" src="https://github.com/user-attachments/assets/11782cb8-2396-4253-b8bf-0169f0a865fe" />
