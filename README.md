@@ -12,7 +12,7 @@
 <img width="256" height="256" alt="QR Preguntas Grupo 2" src="https://github.com/user-attachments/assets/0cda8186-64db-4fc7-8a85-105c2ef9fe44" />
 
 ### Grupo 3
-![](IMG_4003.jpeg)
+![](https://github.com/oicampo-uao/oicampo-uao.github.io/blob/main/academics/images/IMG_4003.jpeg)
 
 ### Grupo 4
 <img width="256" height="256" alt="QR Preguntas Grupo 4" src="https://github.com/user-attachments/assets/11782cb8-2396-4253-b8bf-0169f0a865fe" />
