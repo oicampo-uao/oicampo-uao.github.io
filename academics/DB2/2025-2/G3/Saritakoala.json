@@ -1,5 +1,41 @@
 [
   {
+    "date": "2025-08-30T01:02:05-05:00",
+    "message": "Ajustes documento",
+    "files": [
+      "\"Evidencias/Dise\\303\\261o conceptual DB2G3.docx\""
+    ]
+  },
+  {
+    "date": "2025-08-30T00:59:51-05:00",
+    "message": "Organizaci\u00f3n de documento final",
+    "files": [
+      "\"Evidencias/Dise\\303\\261o conceptual DB2G3.docx\""
+    ]
+  },
+  {
+    "date": "2025-08-29T23:51:21-05:00",
+    "message": "Update Dise\u00f1o conceptual DB2G3.docx\n\nPrueba de conceptos",
+    "files": [
+      "\"Evidencias/Dise\\303\\261o conceptual DB2G3.docx\""
+    ]
+  },
+  {
+    "date": "2025-08-29T15:18:28-05:00",
+    "message": "Tareas realizadas hasta ahora",
+    "files": [
+      "Evidencias/Cronograma D2G3 3.xlsx",
+      "Evidencias/Cronograma D2G3.xlsx"
+    ]
+  },
+  {
+    "date": "2025-08-29T15:00:11-05:00",
+    "message": "Update Dise\u00f1o conceptual DB2G3.docx\n\nMatriz QFD",
+    "files": [
+      "\"Evidencias/Dise\\303\\261o conceptual DB2G3.docx\""
+    ]
+  },
+  {
     "date": "2025-08-28T16:52:25-05:00",
     "message": "Merge branch 'main' of https://github.com/oicampo-uao/Proyecto-DB2-2025-2-G3",
     "files": [

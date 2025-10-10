@@ -1,5 +1,20 @@
 [
   {
+    "date": "2025-08-29T15:28:15-05:00",
+    "message": "Merge branch 'main' of https://github.com/oicampo-uao/Proyecto-DB2-2025-2-G3",
+    "files": [
+      "Evidencias/Cronograma D2G3 3.xlsx",
+      "Evidencias/Cronograma D2G3.xlsx"
+    ]
+  },
+  {
+    "date": "2025-08-29T15:28:10-05:00",
+    "message": "Arquitectura JUAN UMANA",
+    "files": [
+      "\"Evidencias/Dise\\303\\261o conceptual DB2G3.docx\""
+    ]
+  },
+  {
     "date": "2025-08-29T01:25:38-05:00",
     "message": "Actualizacion y Arquitectura JUAN UMANA",
     "files": [
