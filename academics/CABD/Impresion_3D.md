@@ -1,0 +1,130 @@
+***[Impresión 3D](https://www.fablabcali.org/tecnologias-fablab/)***
+
+**Procesos [substractivos](https://medium.com/cnc-life/history-of-cnc-machining-part-1-2a4b290d994d) vs [aditivos](http://www.cnn.com/2014/02/13/tech/innovation/the-night-i-invented-3d-printing-chuck-hall/)**
+
+**Impresión**
+[*motivaciones*] [Reloj](http://www.laimer.ch), [Rompecabezas Esférico Chino](https://fab.cba.mit.edu/classes/863.21/CBA/people/lingdong/site/06-3d-print.html)
+complejidad
+acceso
+desperdicio
+
+[*restricciones*](http://www.3dbenchy.com)
+[fallas](http://academy.cba.mit.edu/classes/scanning_printing/fail.jpg)
+resolución
+tiempo
+costo
+
+[materiales](https://help.prusa3d.com/en/materials)
+polímeros: PLA, PETG, PMMA, ABS, HIPS, TPU, PVA, …
+rellenos: mader, metal, …
+almacenamiento: higroscopía
+[ventilación](http://academy.cba.mit.edu/classes/scanning_printing/emissions.pdf)
+
+## [reglas de diseño:](http://academy.cba.mit.edu/classes/scanning_printing/designrules.jpg)
+
+[soportes](https://n-e-r-v-o-u-s.com/projects/albums/kinematics-link/) [DefeXtiles](https://www.youtube.com/watch?v=gZ_p9o28m5I)
+voladizos [jpg](http://academy.cba.mit.edu/classes/scanning_printing/Prusa/overhang.jpg) [stl](http.://academy.cba.mit.edu/classes/scanning_printing/overhang.stl)
+holgura [jpg](http://academy.cba.mit.edu/classes/scanning_printing/Prusa/clearance.jpg) [stl](http://academy.cba.mit.edu/classes/scanning_printing/clearance.stl)
+[falta de apoyos](https://news.mit.edu/2020/defextiles-leveraging-3d-printer-defect-to-create-quasi-textiles-1020)
+ángulo [jpg](http://academy.cba.mit.edu/classes/scanning_printing/Prusa/angle.jpg) [stl](http://academy.cba.mit.edu/classes/scanning_printing/angle.stl)
+longitud del voladizo [jpg](http://academy.cba.mit.edu/classes/scanning_printing/Prusa/free.jpg) [stl](http://academy.cba.mit.edu/classes/scanning_printing/free.stl)
+estructuras tipo puente [jpg](http://academy.cba.mit.edu/classes/scanning_printing/Prusa/bridging.jpg) [stl](http://academy.cba.mit.edu/classes/scanning_printing/bridging.stl)
+espesor de pared [jpg](http://academy.cba.mit.edu/classes/scanning_printing/Form3/thickness.jpg) [stl](http://academy.cba.mit.edu/classes/scanning_printing/thickness.stl)
+dimensiones [jpg](http://academy.cba.mit.edu/classes/scanning_printing/Prusa/dimension.jpg) [stl](http://academy.cba.mit.edu/classes/scanning_printing/dimension.stl)
+anisotropía [jpg](http://academy.cba.mit.edu/classes/scanning_printing/Prusa/anisotropy.jpg) [stl](http://academy.cba.mit.edu/classes/scanning_printing/anisotropy.stl)
+acabado superficial [jpg](http://academy.cba.mit.edu/classes/scanning_printing/Prusa/finish.jpg) [stl](http://academy.cba.mit.edu/classes/scanning_printing/finish.stl)
+entramado de relleno [jpg](http://academy.cba.mit.edu/classes/scanning_printing/Prusa/infill.jpg) [stl](http://academy.cba.mit.edu/classes/scanning_printing/infill.stl)
+puntas, esquinas
+nivelado, compensación en z
+adhesión a la cama, deformación, “balsa” o marco, bordes
+[post-proceso](http://www.smooth-on.com/Epoxy-Coatings-XTC/c1397_1429/index.html)
+
+[*procesos*](http://www.shapeways.com/materials)
+[stereolithografía](http://www.3dsystems.com/3d-printers)
+[fused-deposition molding (FDM)](http://www.stratasys.com/3d-printers) [extrusión](http://www.emergingobjects.com/) [Contour Crafting](https://www.contourcrafting.com/)
+[DED, WAAM](https://www.google.com/search?q=wire+additive)
+[Aglutinado por impresión de chorro de tinta (ink-jet binder)](http://www.3dsystems.com/3d-printers/personal/overview)
+[PolyJet](http://www.stratasys.com/polyjet-technology)
+[corte de láminas](http://www.mcortechnologies.com/)
+[sinterización por láser selectiva (SLS)](https://www.eos.info/systems_solutions/metal/systems_equipment)
+[Tecnología Two-Photons](https://www.nanoscribe.com/en/)
+[digital](http://cba.mit.edu/events/13.03.scifab/index.html)
+
+*máquinas*
+[RepRap](http://reprap.org/) [auto-replication](http://fab.cba.mit.edu/classes/865.18/replication/Jones.pdf)
+[Ultimaker](https://ultimaker.com) [Z-Unlimited](http://www.rooiejoris.nl/3d-elephant-petition)
+[Prusa](https://www.prusa3d.com) [MMU](https://shop.prusa3d.com/en/upgrades/183-original-prusa-i3-mk25smk3s-multi-material-2s-upgrade-kit-mmu2s.html) [ejemplos de partes](http://academy.cba.mit.edu/classes/scanning_printing/designrules.jpg)
+[Sainsmart](https://www.sainsmart.com/collections/3d-printers)
+[Sindoh](http://3dprinter.sindoh.com/)
+[Formlabs](http://formlabs.com/) [Print the Legend](https://www.netflix.com/title/80005444) [Chase Me](https://formlabs.com/blog/chase-me-3d-printed-film) [ejemplos de partes](http://academy.cba.mit.edu/classes/scanning_printing/Form3/index.html)
+[Stratasys J55](https://www.stratasys.com/3d-printers/j55) [color](http://academy.cba.mit.edu/classes/scanning_printing/J55/color.jpg)
+[MTM](http://mtm.cba.mit.edu/)
+[Precious Plastic](https://preciousplastic.com)
+[Filastruder](https://www.filastruder.com)
+
+*materiales*
+[Proto-pasta](https://www.proto-pasta.com)
+[MatterHackers](https://www.matterhackers.com)
+[NinjaTek](https://ninjatek.com)
+[MachineableWax](https://machinablewax.com/wax-filament/)
+[The Virtual Foundry](https://www.thevirtualfoundry.com/)
+[seguridad alimantaria](https://formlabs.com/blog/guide-to-food-safe-3d-printing)
+
+*service bureaus*
+[granjas de impresión](https://blog.prusaprinters.org/a-quick-look-to-our-printing-farm/)
+[Shapeways](http://www.shapeways.com/)
+[Ponoko](https://www.ponoko.com/)
+[Additively](https://www.additively.com/en/)
+[Servicios de Impresión en Cali](https://www.google.com/search?client=firefox-b-d&q=impresi%C3%B3n+3d+cali)
+
+**formatos de archivos**
+ASCII
+```
+  solid object_name
+    facet normal n1 n2 n3
+       outer loop
+          vertex v11 v12 v13
+          vertex v21 v22 v23
+          vertex v31 v32 v33
+       endloop
+    endfacet
+    ...
+ endsolid object_name
+```
+binary
+80 byte: Encabezado
+enteros de 32-bit: número de facetas
+50 byte: registro de facetas
+32-bit IEEE floats
+normal
+vertices 1,2,3
+2 byte: attributos
+regla de la mano derecha
+normal (opcional)
+(falta de) units
+[PLY](http://graphics.stanford.edu/data/3Dscanrep/)
+[AMF](https://www.astm.org/Standards/ISOASTM52915.htm) [3MF](http://www.3mf.io/)
+[FAV](https://www.fujixerox.com/eng/company/technology/communication/3d/fav.html)
+[OBJ](http://usa.autodesk.com/alias/), [3ds](http://usa.autodesk.com/3ds-max/), DXF
+[VRML, X3D](http://www.web3d.org/x3d-vrml-most-widely-used-3d-formats)
+[glTF](https://www.khronos.org/gltf)
+[Alembic](https://www.alembic.io)
+FREP, BREP
+[adaptively-sampled distance fields](http://cba.mit.edu/docs/theses/13.05.Keeter.pdf)
+volumetrico
+.vol, .tiff, .gif
+[marching cubes](http://academy.cba.mit.edu/classes/scanning_printing/MarchingCubes.pdf)
+[G-codes](https://reprap.org/wiki/G-code)
+[non-planar paths](https://www.nonplanar.xyz/)
+
+**software**
+*enmallado*
+[MeshLab](http://www.meshlab.net/) [netfabb](https://www.autodesk.com/products/netfabb/overview) [meshmixer](http://www.meshmixer.com/) [Geomagic](https://www.3dsystems.com/software)
+*seccionado*
+[ReplicatorG](http://replicat.org/) [Skeinforge](http://reprap.org/wiki/Skeinforge) [Slic3r](http://slic3r.org/) [PrusaSlicer](https://www.prusa3d.com/prusaslicer/) [Cura](http://software.ultimaker.com/) [IceSL](https://icesl.loria.fr) [Kiri:Moto](https://grid.space/kiri)
+*impresión*
+[Printrun](https://www.pronterface.com) [OctoPrint](https://octoprint.org) [Repetier](https://www.repetier.com)
+*intercambio*
+[Sketchfab](https://sketchfab.com/) [Thingiverse](https://www.thingiverse.com/)
+
+**[Tarea: Revisa la tarea aquí](https://classroom.google.com/u/1/c/NDYwODU1OTgwNjA2/a/NDU5MjkyNzIzMTg4/details)**
