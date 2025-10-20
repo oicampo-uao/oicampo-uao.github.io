@@ -126,5 +126,3 @@ volumetrico
 [Printrun](https://www.pronterface.com) [OctoPrint](https://octoprint.org) [Repetier](https://www.repetier.com)
 *intercambio*
 [Sketchfab](https://sketchfab.com/) [Thingiverse](https://www.thingiverse.com/)
-
-**[Tarea: Revisa la tarea aquí](https://classroom.google.com/u/1/c/NDYwODU1OTgwNjA2/a/NDU5MjkyNzIzMTg4/details)**
