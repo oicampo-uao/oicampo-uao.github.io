@@ -66,7 +66,6 @@ adhesión a la cama, deformación, “balsa” o marco, bordes
 
 [PolyJet](http://www.stratasys.com/polyjet-technology)
 
-[corte de láminas](http://www.mcortechnologies.com/)
 
 [sinterización por láser selectiva (SLS)](https://www.eos.info/systems_solutions/metal/systems_equipment)
 
@@ -85,7 +84,7 @@ adhesión a la cama, deformación, “balsa” o marco, bordes
 
 [Sindoh](http://3dprinter.sindoh.com/)
 
-[Formlabs](http://formlabs.com/) [Print the Legend](https://www.netflix.com/title/80005444) [Chase Me](https://formlabs.com/blog/chase-me-3d-printed-film) [ejemplos de partes](http://academy.cba.mit.edu/classes/scanning_printing/Form3/index.html)
+[Formlabs](http://formlabs.com/) [Chase Me](https://formlabs.com/blog/chase-me-3d-printed-film) [ejemplos de partes](http://academy.cba.mit.edu/classes/scanning_printing/Form3/index.html)
 
 [Stratasys J55](https://www.stratasys.com/3d-printers/j55) [color](http://academy.cba.mit.edu/classes/scanning_printing/J55/color.jpg)
 
@@ -106,7 +105,7 @@ adhesión a la cama, deformación, “balsa” o marco, bordes
 
 [The Virtual Foundry](https://www.thevirtualfoundry.com/)
 
-[seguridad alimantaria](https://formlabs.com/blog/guide-to-food-safe-3d-printing)
+[seguridad alimentaria](https://formlabs.com/blog/guide-to-food-safe-3d-printing)
 
 *service bureaus*
 [granjas de impresión](https://blog.prusaprinters.org/a-quick-look-to-our-printing-farm/)
