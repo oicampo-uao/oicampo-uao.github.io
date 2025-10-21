@@ -20,6 +20,31 @@ rellenos: mader, metal, …
 almacenamiento: higroscopía
 [ventilación](http://academy.cba.mit.edu/classes/scanning_printing/emissions.pdf)
 
+## Materiales Para impresión de guías quirúrgicas
+Los materiales más indicados: resinas biocompatibles. Destacan: la Surgical Guide Resin y otras resinas certificadas bajo normas como ISO 10993.[1][2][3][4][5]
+
+### Resinas biocompatibles especializadas
+
+- Surgical Guide Resin de Formlabs, KeyGuide y Portux SG. Esterilizables en autoclave. Alta precisión dimensional.[2][5][1]
+- Permiten visualización de tejidos. No liberan sustancias tóxicas ni causan reacciones adversas al paciente.[4]
+
+### Polímeros avanzados en impresión médica
+
+- Deben cumplir con normativa ISO 10993
+- PEEK (polieter éter cetona): polímero estándar de oro en aplicaciones médicas por su alta biocompatibilidad, resistencia mecánica y química, y capacidad de esterilización. Es compleja su impresión y requiere equipos especializados, pero se usa en dispositivos médicos avanzados, incluidas guías quirúrgicas.
+
+- Nylon (poliamida): Algunos grados médicos de nylon, certificados bajo ISO 10993, pueden utilizarse para guías quirúrgicas. Se caracterizan por su resistencia y flexibilidad.
+
+- PETG médico: Existen versiones de PETG específicas para aplicaciones médicas con certificación de biocompatibilidad, que ofrecen buena resistencia química y facilidad de impresión.
+
+- PLA biocompatible: Aunque el PLA estándar no es apto para contacto prolongado con el cuerpo, existen variantes desarrolladas para aplicaciones médicas, que pueden emplearse en fabricación de modelos y algunas guías con contacto limitado y duración breve.
+
+
+### Consideraciones técnicas y normativas
+
+- Es fundamental que los materiales cumplan con estándares de biocompatibilidad y sean esterilizables sin perder estabilidad dimensional.[5][2][4]
+- Las resinas usadas en guías quirúrgicas médicas están diseñadas para garantizar exactitud en el ajuste anatómico y resistencia durante la intervención quirúrgica.[4]
+
 ## [reglas de diseño:](http://academy.cba.mit.edu/classes/scanning_printing/designrules.jpg)
 
 [soportes](https://n-e-r-v-o-u-s.com/projects/albums/kinematics-link/) [DefeXtiles](https://www.youtube.com/watch?v=gZ_p9o28m5I)
@@ -194,3 +219,14 @@ volumetrico
 
 *intercambio*
 [Sketchfab](https://sketchfab.com/) [Thingiverse](https://www.thingiverse.com/)
+
+[1](https://support.formlabs.com/s/article/Using-Surgical-Guide-Resin?language=es)
+[2](https://rapident.co/producto/resina-portux-de-impresion-3d-guias/)
+[3](https://eddm.es/blog-ingenius/materiales-biocompatibles-para-impresion-3d/)
+[4](https://dentometric.com/resina-para-guias-quirurgicas/)
+[5](https://formlabs.com/es/materials/dental/)
+[6](https://www.weerg.com/es/guias/impresion-3d-medicina)
+[7](https://smileep.com/guias-quirurgicas-impresion-3d-dental/)
+[8](https://alphabio-iberia.com/novedades-odontologia-digital/las-11-resinas-biocompatibles-para-optimizar-tu-impresion-3d/)
+[9](https://www.youtube.com/watch?v=Oxn7G_qRbRg)
+[10](https://formlabs.com/es/blog/materiales-impresion-3d/)
