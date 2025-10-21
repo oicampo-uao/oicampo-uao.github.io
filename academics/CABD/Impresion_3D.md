@@ -49,27 +49,27 @@ Los materiales más indicados: resinas biocompatibles. Destacan: la Surgical Gui
 
 [soportes](https://n-e-r-v-o-u-s.com/projects/albums/kinematics-link/) [DefeXtiles](https://www.youtube.com/watch?v=gZ_p9o28m5I)
 
-voladizos [jpg](http://academy.cba.mit.edu/classes/scanning_printing/Prusa/overhang.jpg) [stl](http.://academy.cba.mit.edu/classes/scanning_printing/overhang.stl)
+voladizos [jpg](http://academy.cba.mit.edu/classes/scanning_printing/Prusa/overhang.jpg) [stl](https://oicampo-uao.github.io/academics/CABD/stl_files/overhang.stl)
 
-holgura [jpg](http://academy.cba.mit.edu/classes/scanning_printing/Prusa/clearance.jpg) [stl](http://academy.cba.mit.edu/classes/scanning_printing/clearance.stl)
+holgura [jpg](http://academy.cba.mit.edu/classes/scanning_printing/Prusa/clearance.jpg) [stl](https://oicampo-uao.github.io/academics/CABD/stl_files/clearance.stl)
 
 [falta de apoyos](https://news.mit.edu/2020/defextiles-leveraging-3d-printer-defect-to-create-quasi-textiles-1020)
 
-ángulo [jpg](http://academy.cba.mit.edu/classes/scanning_printing/Prusa/angle.jpg) [stl](http://academy.cba.mit.edu/classes/scanning_printing/angle.stl)
+ángulo [jpg](http://academy.cba.mit.edu/classes/scanning_printing/Prusa/angle.jpg) [stl](https://oicampo-uao.github.io/academics/CABD/stl_files/angle.stl)
 
-longitud del voladizo [jpg](http://academy.cba.mit.edu/classes/scanning_printing/Prusa/free.jpg) [stl](http://academy.cba.mit.edu/classes/scanning_printing/free.stl)
+longitud del voladizo [jpg](http://academy.cba.mit.edu/classes/scanning_printing/Prusa/free.jpg) [stl](https://oicampo-uao.github.io/academics/CABD/stl_files/free.stl)
 
-estructuras tipo puente [jpg](http://academy.cba.mit.edu/classes/scanning_printing/Prusa/bridging.jpg) [stl](http://academy.cba.mit.edu/classes/scanning_printing/bridging.stl)
+estructuras tipo puente [jpg](http://academy.cba.mit.edu/classes/scanning_printing/Prusa/bridging.jpg) [stl](https://oicampo-uao.github.io/academics/CABD/stl_files/bridging.stl)
 
-espesor de pared [jpg](http://academy.cba.mit.edu/classes/scanning_printing/Form3/thickness.jpg) [stl](http://academy.cba.mit.edu/classes/scanning_printing/thickness.stl)
+espesor de pared [jpg](http://academy.cba.mit.edu/classes/scanning_printing/Form3/thickness.jpg) [stl](https://oicampo-uao.github.io/academics/CABD/stl_files/thickness.stl)
 
-dimensiones [jpg](http://academy.cba.mit.edu/classes/scanning_printing/Prusa/dimension.jpg) [stl](http://academy.cba.mit.edu/classes/scanning_printing/dimension.stl)
+dimensiones [jpg](http://academy.cba.mit.edu/classes/scanning_printing/Prusa/dimension.jpg) [stl](https://oicampo-uao.github.io/academics/CABD/stl_files/dimension.stl)
 
-anisotropía [jpg](http://academy.cba.mit.edu/classes/scanning_printing/Prusa/anisotropy.jpg) [stl](http://academy.cba.mit.edu/classes/scanning_printing/anisotropy.stl)
+anisotropía [jpg](http://academy.cba.mit.edu/classes/scanning_printing/Prusa/anisotropy.jpg) [stl](https://oicampo-uao.github.io/academics/CABD/stl_files/anisotropy.stl)
 
-acabado superficial [jpg](http://academy.cba.mit.edu/classes/scanning_printing/Prusa/finish.jpg) [stl](http://academy.cba.mit.edu/classes/scanning_printing/finish.stl)
+acabado superficial [jpg](http://academy.cba.mit.edu/classes/scanning_printing/Prusa/finish.jpg) [stl](https://oicampo-uao.github.io/academics/CABD/stl_files/finish.stl)
 
-entramado de relleno [jpg](http://academy.cba.mit.edu/classes/scanning_printing/Prusa/infill.jpg) [stl](http://academy.cba.mit.edu/classes/scanning_printing/infill.stl)
+entramado de relleno [jpg](http://academy.cba.mit.edu/classes/scanning_printing/Prusa/infill.jpg) [stl](https://oicampo-uao.github.io/academics/CABD/stl_files/infill.stl)
 
 puntas, esquinas
 
