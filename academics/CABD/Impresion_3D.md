@@ -21,11 +21,11 @@ almacenamiento: higroscopía
 [ventilación](http://academy.cba.mit.edu/classes/scanning_printing/emissions.pdf)
 
 ## Materiales Para impresión de guías quirúrgicas
-Los materiales más indicados: resinas biocompatibles. Destacan: la Surgical Guide Resin y otras resinas certificadas bajo normas como ISO 10993.[1](https://support.formlabs.com/s/article/Using-Surgical-Guide-Resin?language=es)[2](https://rapident.co/producto/resina-portux-de-impresion-3d-guias/)[3](https://eddm.es/blog-ingenius/materiales-biocompatibles-para-impresion-3d/)[4](https://dentometric.com/resina-para-guias-quirurgicas/)[5](https://formlabs.com/es/materials/dental/)
+Los materiales más indicados: resinas biocompatibles. Destacan: la Surgical Guide Resin y otras resinas certificadas bajo normas como ISO 10993.[1](https://support.formlabs.com/s/article/Using-Surgical-Guide-Resin?language=es) [2](https://rapident.co/producto/resina-portux-de-impresion-3d-guias/) [3](https://eddm.es/blog-ingenius/materiales-biocompatibles-para-impresion-3d/) [4](https://dentometric.com/resina-para-guias-quirurgicas/) [5](https://formlabs.com/es/materials/dental/)
 
 ### Resinas biocompatibles especializadas
 
-- Surgical Guide Resin de Formlabs, KeyGuide y Portux SG. Esterilizables en autoclave. Alta precisión dimensional.[2](https://rapident.co/producto/resina-portux-de-impresion-3d-guias/)[5](https://formlabs.com/es/materials/dental/)[1](https://support.formlabs.com/s/article/Using-Surgical-Guide-Resin?language=es)
+- Surgical Guide Resin de Formlabs, KeyGuide y Portux SG. Esterilizables en autoclave. Alta precisión dimensional.[2](https://rapident.co/producto/resina-portux-de-impresion-3d-guias/) [5](https://formlabs.com/es/materials/dental/) [1](https://support.formlabs.com/s/article/Using-Surgical-Guide-Resin?language=es)
 - Permiten visualización de tejidos. No liberan sustancias tóxicas ni causan reacciones adversas al paciente.[4](https://dentometric.com/resina-para-guias-quirurgicas/)
 
 ### Polímeros avanzados en impresión médica
@@ -42,7 +42,7 @@ Los materiales más indicados: resinas biocompatibles. Destacan: la Surgical Gui
 
 ### Consideraciones técnicas y normativas
 
-- Es fundamental que los materiales cumplan con estándares de biocompatibilidad y sean esterilizables sin perder estabilidad dimensional.[5](https://formlabs.com/es/materials/dental/)[2](https://rapident.co/producto/resina-portux-de-impresion-3d-guias/)[4](https://dentometric.com/resina-para-guias-quirurgicas/)
+- Es fundamental que los materiales cumplan con estándares de biocompatibilidad y sean esterilizables sin perder estabilidad dimensional.[5](https://formlabs.com/es/materials/dental/) [2](https://rapident.co/producto/resina-portux-de-impresion-3d-guias/) [4](https://dentometric.com/resina-para-guias-quirurgicas/)
 - Las resinas usadas en guías quirúrgicas médicas están diseñadas para garantizar exactitud en el ajuste anatómico y resistencia durante la intervención quirúrgica.[4](https://dentometric.com/resina-para-guias-quirurgicas/)
 
 ## [reglas de diseño:](http://academy.cba.mit.edu/classes/scanning_printing/designrules.jpg)
