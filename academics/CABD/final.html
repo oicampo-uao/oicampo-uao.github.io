@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Descarga tu examen</title>
+    <style>
+        body { font-family: Arial, sans-serif; margin: 2em; }
+        .resultado { margin-top: 1em; font-weight: bold; }
+    </style>
+</head>
+<body>
+    <h2>Descarga tu examen</h2>
+    <label for="idInput">Introduce tu ID:</label>
+    <input type="text" id="idInput" />
+    <button onclick="buscarEnlace()">Obtener enlace</button>
+    <div class="resultado" id="resultado"></div>
+    <script>
+        // Diccionario de IDs y enlaces (extraído del CSV)
+        const links = {
+    "1110286885": "https://oicampo-uao.github.io/academics/CABD/stl_final/Femur-1.mix",
+    "1109542109": "https://oicampo-uao.github.io/academics/CABD/stl_final/Mandibula-1.stl",
+    "1005785665": "https://oicampo-uao.github.io/academics/CABD/stl_final/Pierna-1.mix",
+    "1036925847": "https://oicampo-uao.github.io/academics/CABD/stl_final/Torax-1.mix",
+    "1112388246": "https://oicampo-uao.github.io/academics/CABD/stl_final/Femur-2.mix",
+    "1000940688": "https://oicampo-uao.github.io/academics/CABD/stl_final/Mandibula-2.stl",
+    "1107837413": "https://oicampo-uao.github.io/academics/CABD/stl_final/Pierna-2.mix",
+    "1007560675": "https://oicampo-uao.github.io/academics/CABD/stl_final/Femur-3.mix",
+    "1005832925": "https://oicampo-uao.github.io/academics/CABD/stl_final/Mandibula-2.stl",
+    "1006343564": "https://oicampo-uao.github.io/academics/CABD/stl_final/Torax-2.mix",
+    "73265790": "https://oicampo-uao.github.io/academics/CABD/stl_final/Femur-1.mix",
+    "1110285503": "https://oicampo-uao.github.io/academics/CABD/stl_final/Mandibula-1.stl",
+    "1112388822": "https://oicampo-uao.github.io/academics/CABD/stl_final/Pierna-1.mix",
+    "1113978874": "https://oicampo-uao.github.io/academics/CABD/stl_final/Torax-1.mix",
+    "1104804719": "https://oicampo-uao.github.io/academics/CABD/stl_final/Femur-2.mix",
+    "1004217163": "https://oicampo-uao.github.io/academics/CABD/stl_final/Mandibula-2.stl",
+    "1107837304": "https://oicampo-uao.github.io/academics/CABD/stl_final/Pierna-2.mix",
+    "1112041894": "https://oicampo-uao.github.io/academics/CABD/stl_final/Femur-3.mix",
+    "1105366146": "https://oicampo-uao.github.io/academics/CABD/stl_final/Mandibula-2.stl",
+    "1005892878": "https://oicampo-uao.github.io/academics/CABD/stl_final/Torax-2.mix",
+    "1107839506": "https://oicampo-uao.github.io/academics/CABD/stl_final/Femur-1.mix",
+    "1112389849": "https://oicampo-uao.github.io/academics/CABD/stl_final/Mandibula-1.stl",
+    "1076904274": "https://oicampo-uao.github.io/academics/CABD/stl_final/Pierna-1.mix",
+    "1058932076": "https://oicampo-uao.github.io/academics/CABD/stl_final/Torax-1.mix",
+    "1113362057": "https://oicampo-uao.github.io/academics/CABD/stl_final/Femur-2.mix",
+    "1002886235": "https://oicampo-uao.github.io/academics/CABD/stl_final/Mandibula-2.stl",
+    "1061688602": "https://oicampo-uao.github.io/academics/CABD/stl_final/Pierna-2.mix",
+    "1193276119": "https://oicampo-uao.github.io/academics/CABD/stl_final/Femur-3.mix",
+    "1004189893": "https://oicampo-uao.github.io/academics/CABD/stl_final/Mandibula-2.stl",
+    "1234198199": "https://oicampo-uao.github.io/academics/CABD/stl_final/Torax-2.mix"
+};
+
+
+        function buscarEnlace() {
+            const id = document.getElementById("idInput").value.trim();
+            const resultado = document.getElementById("resultado");
+            if (links[id]) {
+                resultado.innerHTML = `Tu examen: <a href="${links[id]}" target="_blank">Descargar</a>`;
+            } else {
+                resultado.innerHTML = "ID no encontrado. Verifica que ingresaste correctamente tu número de identificación.";
+            }
+        }
+    </script>
+</body>
+</html>
